@@ -22,3 +22,6 @@ Brown. Like all Byzantine agreement protocols, SCP makes no assumptions about th
 // Green. Like all Byzantine agreement protocols, SCP makes no assumptions about the rational behavior of attackers.
 ```
 
+```js
+// Green. Like all Byzantine agreement protocols, SCP makes no assumptions about the rational behavior of attackers.
+```
